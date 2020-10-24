@@ -6,18 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>⭐️</title>
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <Header title="⭐ Surprise Ricardo ⭐️" />
+        <a className="description" rel="ar" href="https://developer.apple.com/augmented-reality/quick-look/models/drummertoy/toy_drummer.usdz">
+          Click here!
+        </a>
       </main>
 
-      <Footer />
 
       <style jsx>{`
         .container {
