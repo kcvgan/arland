@@ -11,8 +11,9 @@ export default function Home() {
 
       <main>
         <Header title="⭐ Surprise Ricardo ⭐️" />
+        Click the gif!
         <a className="description" rel="ar" href="https://developer.apple.com/augmented-reality/quick-look/models/drummertoy/toy_drummer.usdz">
-          Click here!
+          <img alt="Michael Scott" src="/tenor.gif"/>
         </a>
       </main>
 
@@ -33,13 +34,6 @@ export default function Home() {
           flex-direction: column;
           justify-content: center;
           align-items: center;
-        }
-
-        code {
-          background: #fafafa;
-          border-radius: 5px;
-          padding: 0.75rem;
-          font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
         }
       `}</style>
 
