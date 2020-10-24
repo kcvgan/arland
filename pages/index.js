@@ -11,7 +11,7 @@ export default function Home() {
       <main>
         <Header title="⭐ Surprise Ricardo ⭐️" />
         Click the gif!
-        <a className="description" rel="ar" href="https://developer.apple.com/augmented-reality/quick-look/models/drummertoy/toy_drummer.usdz">
+        <a className="description" rel="ar" href="/desk.usdz">
           <img alt="Michael Scott" src="/tenor.gif"/>
         </a>
       </main>
